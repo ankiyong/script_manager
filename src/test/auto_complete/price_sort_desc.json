@@ -1,0 +1,24 @@
+{
+  "id" : "luxury_panda_dev",
+  "params": {
+    "view" : 50,
+    "from" : 0,
+    "stock_sort" : true,
+    "sort_field" : "price",
+    "sort_order" : "desc",
+    "last_value" : "",
+    "sellable" : "",
+    "path" : "",
+    "brand_id" : "",
+    "hashTags" : "",
+    "priceMin" : "",
+    "priceMax" : "",
+    "search" : "지갑",
+    "has_stock" : "",
+    "use_agg_brand" : false,
+    "use_agg_event" : false,
+    "use_agg_list" : false,
+    "use_agg_hotdeal" : false,
+    "use_hstgram_agg" : false
+  }
+}
